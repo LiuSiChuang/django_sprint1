@@ -7,4 +7,3 @@ urlpatterns = [
     path('', include('pages.urls')),
 
 ]
-
